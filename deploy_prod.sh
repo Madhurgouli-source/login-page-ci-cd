@@ -1,4 +1,4 @@
-#!/usr/env bash
+#!/usr/bin/env bash
 
 TARGET_DIR="/C/DevOps/LoginApp/prod"
 
